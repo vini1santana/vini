@@ -1,1 +1,14 @@
-
+header{
+background: #BBBBBB;
+}
+nav li{
+display: inline;
+margen:0 0 0 15px; 
+}
+nav a{
+text-transform: UPPERCASE;
+color: #000000;
+font-weight: bold;
+font-size: 22px;
+text-decoration: none;
+}
