@@ -5,16 +5,16 @@ padding: 20px 0;
 .caixa{
 position:relative;
 width: 940px;
-margen: 0 auto;
+margin: 0 auto;
 }
 nav{
-.position: absolute;
+position: absolute;
 top: 110px;
 right: o;
 }
 nav li{
 display: inline;
-margen:0 0 0 15px; 
+margin:0 0 0 15px; 
 }
 nav a{
 text-transform: UPPERCASE;
@@ -22,27 +22,30 @@ color: #000000;
 font-weight: bold;
 font-size: 22px;
 text-decoration: none;
+}
 nav a:hover{
-  color #C78C19;
-  text-decoration:underlaine;
+  color: #C78C19;
+  text-decoration:underline;
 }
-}
+
 .produtos{
 width:940px;
 margin:0 auto;
 padding:50px 0;
 }
+
 .produtos li{
-display: inline-block;
-  text-align: center
+  display: inline-block;
+  text-align: center;
   width: 30%;
   vertical-align:top;
   margin: 0 1.5%;
   padding: 30px 20px;
-box-sizing: border-lox;
-border: 2px solid #000000;
+  box-sizing: border-lox;
+  border: 2px solid #000000;
   border-radius: 10px;
 }
+
 .produtos li:hover{
   border-color: green;
 }
@@ -63,11 +66,14 @@ font-size: 18px;
   font-size: 22px;
 font-weight: bold;
 margin-top: 10px;
+}
+
 footer{
 text-align: center;
 background: url("bg.jpg");
-padding; 40px o;
+padding: 40px o;
 }
+
 .copyright{
 color:#ffffff;
   font-size: 13px;
