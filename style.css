@@ -1,4 +1,4 @@
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -7,14 +7,16 @@ body {
 #banner {
     width: 100%;
 }
-.principal}
-background: # cccccc
+.principal{
+background: #cccccc;
 padding:30px;
 }
-h1{
-    text-align: center
+.titulo-principal {
+padding-left: 20px;
 }
-p {
+.titulo-secundario {
+text-align: center
+}
     text-align: center;
 }
 #missao {
@@ -29,20 +31,19 @@ em strong {
 .beneficios{
 background: #ffffff;
 padding: 20px;
-.titulo-principal{
-padding-left: 20px;
 }
-titulo-secundario{]
+.titulo-principal{
+
 text-align: center;
 }
 ul{
-duplay: inline-block
+diplay: inline-block;
 vertical-align: top;
 width: 20%;
     margin-right: 15%;
 }
 .imagem-beneficios{
-widht: 50%
+width: 50%
 }
 
 
