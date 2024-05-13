@@ -120,7 +120,7 @@ form{ margin:40px;0;
   cursor: pointer;
 }
 .enviar:hover{
-  background: dark orange;
+  background: darkorange;
   transform: scale(1.2);
 }
 
