@@ -124,6 +124,52 @@ form{ margin:40px;0;
   background: darkorange;
   transform: scale(1.2);
 }
+body {   
+}
+#banner {
+    width: 100%;
+}
+.principal{
+background: #cccccc;
+padding:30px;
+}
+.titulo-principal {
+padding-left: 20px;
+}
+.titulo-secundario {
+text-align: center
+}
+    text-align: center;
+}
+#missao {
+    font-size: 20px
+}
+em strong {
+    color:black
+} 
+.itens{
+    font-style:talic;
+}
+.beneficios{
+background: #ffffff;
+padding: 20px;
+}
+.titulo-principal{
+
+text-align: center;
+}
+ul{
+diplay: inline-block;
+vertical-align: top;
+width: 20%;
+    margin-right: 15%;
+}
+.imagem-beneficios{
+width: 50%
+}
+
+
+
 
 
 
