@@ -168,39 +168,13 @@ width: 20%;
 .imagem-beneficios{
 width: 50%
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-    
-  
-
-
-
-
-
-
-
-
-  
+.main {
+padding: 3em 0;
+}
+.mapa p {
+margin: 0 0 2em;
+  text-align:center;
+.video {
+widht: 560px;
+  margin: 1em auto;
 }
